@@ -1,0 +1,23 @@
+{
+  "name": "jan-5th-expressjs-static-assets",
+  "version": "1.0.0",
+  "description": "Learning how to use express.js and make static assets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LillianChernin/jan-5th-expressjs-static-assets-lab.git"
+  },
+  "author": "Lillian Chernin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LillianChernin/jan-5th-expressjs-static-assets-lab/issues"
+  },
+  "homepage": "https://github.com/LillianChernin/jan-5th-expressjs-static-assets-lab#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
